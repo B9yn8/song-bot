@@ -1,6 +1,6 @@
 {
-    "name": "Song-Bot",
-    "description": "A Modular telegram song bot.",
+    "name": "Youtube Download",
+    "description": "🎵 YouTube to ( MP 3/4 ) Bot 🎵",
     "repository": "https://github.com/shamilhabeebnelli/Song-Bot",
     "keywords": [
        
@@ -10,16 +10,16 @@
     ],
     "env": {
         "APP_ID": {
-            "description": "Get this value from my.telegram.org",
+            "description": "21552111",
             "value": ""
         },
         "API_HASH": {
-            "description": "Get this value from my.telegram.org",
+            "description": "0d0c89e2a25afdb2af119339e434662d",
             "value": ""
         },
         "OWNER": {
             "description": "Your username without @.",
-            "value": "shamilhabeeb"
+            "value": "ZP_H3"
         },
         "START_MSG": {
             "description": "Start Message of BoT",
@@ -31,7 +31,7 @@
         },
         "BOT_TOKEN": {
             "description": "ID of the message to edit.",
-            "value": ""
+            "value": "7006568131:AAE0WYdZjWIGCKF2p5lTDTm9vEjj9S4Educ"
         }
     },
     "buildpacks": [
